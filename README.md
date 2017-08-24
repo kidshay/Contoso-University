@@ -9,7 +9,7 @@
 
 * Students can sign up using this app it's working and can be use.
 * The Design is a 3 screen design what the Home screen being Two layers and the Edit Form screen and Thank you screen being One layout.
-
+* This app is about 90% completed
 
 ## ScreenShots
 
