@@ -2,7 +2,7 @@
 
 
 
-<p align="center">
+<p align="left">
   This Documentation system is for Contoso-University Registration form using Powerapps
 </p>
 
@@ -25,9 +25,9 @@
 
 ## User Guide
 
-Registering Students would be directed to the App via the link from the Home Page. Once directed they would be promted by this ![screenshot 5](https://user-images.githubusercontent.com/5595381/29681990-77de655a-88d7-11e7-8ddd-3d238b8b077c.png)
+Registering Students would be directed to the App via the link from the Home Page. Once directed they will be promted by this ![screenshot 5](https://user-images.githubusercontent.com/5595381/29681990-77de655a-88d7-11e7-8ddd-3d238b8b077c.png)
 
-Once new students clicks on register they would be promted with this screen to enter their information. Information would be check for errors and once there are no errors after the submit button is press the information would be stored in a list file on sharepoint called students.
+Once new students clicks on register they will be promted with this screen to enter their information. Information would be check for errors and once there are no errors, after the submit button is pressed the information would be stored in a list file on sharepoint called students.
 ![screenshot 5](https://user-images.githubusercontent.com/5595381/29681861-0c67949a-88d7-11e7-8f9e-2d3c88e07631.png)
 
 After the information is accepted users would be dirrected to the Thank you Screen
