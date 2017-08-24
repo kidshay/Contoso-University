@@ -33,4 +33,8 @@ Once new students clicks on register they will be promted with this screen to en
 After the information is accepted users would be dirrected to the Thank you Screen
 ![screenshot 9](https://user-images.githubusercontent.com/5595381/29681912-3d12414e-88d7-11e7-87f5-6cdea746b8a1.png)
 
+# Student list file on sharepoint
 
+![screenshot 15](https://user-images.githubusercontent.com/5595381/29685641-1166cde6-88e4-11e7-9547-e1beb899d1ec.png)
+![screenshot 16](https://user-images.githubusercontent.com/5595381/29685644-1371cfdc-88e4-11e7-99e6-56383cbd61ac.png)
+![screenshot 17](https://user-images.githubusercontent.com/5595381/29685647-15b3160c-88e4-11e7-843a-a1aeb1c826de.png)
